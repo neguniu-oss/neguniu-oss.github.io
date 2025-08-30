@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhihong Niu / Site Title"
+title                    : "Zhihong Niu"
 title_separator          : "-"
 name                     : &name "Zhihong Niu"
 description              : &description "personal description"
